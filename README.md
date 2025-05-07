@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Stacy!
+I'm Stacy! Nice to meet you!
 Here are a few facts about me:
 
 <!--
