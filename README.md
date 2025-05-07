@@ -7,7 +7,10 @@ Here are a few facts about me:
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my portfolio website. The link to the website will be available soon.
+- 🔭 I’m currently working on my portfolio website.
+-    The link to the website will be available soon.
+-    So,
+-    Stay Tuned.
 - 🌱 I’m currently studying.
 - 👯 I’m looking to collaborate on web development projects, so let's connect.
 - 📫 How to reach me: send an email.
